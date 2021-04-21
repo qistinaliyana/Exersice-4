@@ -4,7 +4,7 @@ public class Balls {
 	private double price, quantity;
 	
 	
-	Balls(double Diameter, double Weigth){
+	Balls(double price, double quantity){
 		System.out.println("Enter the price : RM ");
 		this.price = s.nextDouble();
 		System.out.println("Enter the quantity : ");
